@@ -1,5 +1,5 @@
 # Cross Domain Disentangled Deep Representation
-Temporary verison for CDRD. 
+Temporary verison of CDRD. 
 ## Prerequisites
 * Python 2.7
 * tensorflow 1.11
