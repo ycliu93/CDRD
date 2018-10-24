@@ -1,5 +1,10 @@
 # Cross Domain Disentangled Deep Representation
 Temporary verison of CDRD. 
+
+<p align="center">
+  <img src="demo/mnist_result.gif" width="350" title="MNSIT2USPS_result">
+</p>
+
 ## Prerequisites
 * Python 2.7
 * tensorflow 1.11
