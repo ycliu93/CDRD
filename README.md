@@ -2,7 +2,7 @@
 Temporary verison of CDRD. 
 
 <p align="center">
-  <img src="demo/mnist_result.gif" width="350" title="MNSIT2USPS_result">
+  <img src="demo/mnist_result.gif" width="600" title="MNSIT2USPS_result">
 </p>
 
 ## Prerequisites
